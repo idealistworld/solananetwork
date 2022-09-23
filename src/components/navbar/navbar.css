@@ -1,0 +1,36 @@
+.nav-container {
+    color: white;
+    height:100vh;
+    width: 8vw;
+    background-image: url(../../images/navbar-background.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: 3;
+    position: absolute;
+    margin-left: 92vw;
+}
+
+.nav-links {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-link {
+    transform: rotate(-90deg);
+    font-size: 2vw;
+    width: 30vh;
+    text-align: center;
+}
+
+@media only screen and (max-device-width: 450px) {
+    .nav-link {
+        font-size: 1.8vh;
+    }
+}

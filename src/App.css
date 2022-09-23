@@ -1,0 +1,15 @@
+.App {
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100vh;
+  width: 100vw; 
+}
+
+.container {
+  scroll-snap-type: mandatory;
+  scroll-snap-points-y: repeat(1px);
+  scroll-snap-type: y mandatory;}
+
+.child {
+  scroll-snap-align: start;
+}

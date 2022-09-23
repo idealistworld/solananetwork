@@ -1,0 +1,158 @@
+.home-background {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    background-image: url(../../images/landing-background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+
+.home-icons {
+    height: 80vw;
+    margin-left: -22vw;
+    margin-top: -21vw;
+}
+
+.home-title {
+    color: white;
+    font-size: 7vw;
+    margin: 0;
+}
+
+.home-middle-container {
+    height: 100vh;
+    width: 92vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.home-middle-content {
+    height: 90vh;
+    width: 77vw;
+    margin-top: 6vw;
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.logo {
+    /*background: -webkit-linear-gradient(rgb(41, 255, 141), rgb(37, 91, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;*/
+    color: white;
+}
+
+
+.home-paragraph {
+    width: 40vw;
+    color: white;
+    font-size: 1.9vw;
+    font-weight: 300;
+}
+
+.signup-form {
+    background-color: #09081C;
+    border: #00E1B8 solid 2.5px;
+    width: 26vw;
+    border-radius: 5px;
+    height: 4vw;
+    padding: 0 2%;
+    font-size: 1.5vw;
+    color: white;
+    font-weight: 100;
+    border-radius: 7px 0px 0px 7px;
+}
+
+.writing-logo {
+    display: inline-flex;
+}
+
+.home-right {
+    display: inline;
+}
+
+.home-left {
+    z-index: 1;
+    display: inline;
+}
+
+.submit-section {
+    display: flex;
+}
+
+.submit-button {
+    background-color: #00E1B8;
+    border: none;
+    border-radius: 0px 7px 7px 0px;
+    width: 9vw;
+    font-size: 1.2vw;
+    font-weight: 500;
+}
+
+.submit-button:hover {
+    cursor: pointer;
+}
+
+@media only screen and (max-device-width: 450px) {
+    .home-middle-content {
+        flex-direction: column;
+        margin-top: -6vh;
+    }
+
+    .home-title {
+        font-size: 6vh;
+        margin-top: -10vh;
+    }
+
+    #home-right {
+        order: 1;
+    }
+
+    #home-left {
+        order: 2;
+    }
+
+    .home-icons {
+        height: 63vh;
+        margin-left: -14vh;
+        margin-top: -16vw;
+    }
+
+    .home-paragraph {
+        width: 80vw;
+        color: white;
+        font-size: 1.7vh;
+        font-weight: 300;
+        margin-bottom: 3vh;
+    }
+
+    .signup-form {
+        background-color: #09081C;
+        border: #00E1B8 solid 1.5px;
+        width: 83vw;
+        border-radius: 3px;
+        height: 4vh;
+        padding: 0 1.5vh;
+        font-size: 1.6vh;
+        color: white;
+        font-weight: 200;
+        border-radius: 7px 0px 0px 7px;
+    }
+
+    .submit-button {
+        background-color: #00E1B8;
+        border: none;
+        border-radius: 0px 7px 7px 0px;
+        width: 40vw;
+        font-size: 1.6vh;
+        font-weight: 500;
+    }
+
+    .writing-logo {
+        display: flex;
+        flex-direction: column;
+    }
+}
