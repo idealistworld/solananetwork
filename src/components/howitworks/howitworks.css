@@ -25,7 +25,7 @@
 }
 
 .card {
-    height: 36vw;
+    height: 38vw;
     width: 30%;
     border-width: 3px;
     display: flex;
@@ -42,45 +42,45 @@
 }
 
 #camera {
-    height: 21vw;
-    width: 21vw;
+    height: 18vw;
+    width: 18vw;
     margin-top: -12vw;
     z-index: 1000;
 }
 
 .camera-glow {
-    height: 21vw;
-    width: 21vw;
+    height: 18vw;
+    width: 18vw;
     margin-top: -12vw;
     background-color: rgba(255, 96, 96, 1);
     filter: blur(60px)
 }
 
 #message {
-    height: 21vw;
-    width: 21vw;
+    height: 18vw;
+    width: 18vw;
     margin-top: -12vw;
     z-index: 1000;
 }
 
 .message-glow {
-    height: 21vw;
-    width: 21vw;
+    height: 18vw;
+    width: 18vw;
     margin-top: -12vw;
     background-color: rgba(118, 173, 255, 1);
     filter: blur(60px)
 }
 
 #coin {
-    height: 21vw;
-    width: 21vw;
+    height: 18vw;
+    width: 18vw;
     margin-top: -12vw;
     z-index: 1000;
 }
 
 .coin-glow {
-    height: 21vw;
-    width: 21vw;
+    height: 18vw;
+    width: 18vw;
     margin-top: -12vw;
     background-color: rgba(255, 175, 126, 1);
     filter: blur(60px);

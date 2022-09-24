@@ -15,7 +15,7 @@ const Howitworks = () => {
                             <img id="camera" src={camera}></img>
                             <div className="camera-glow"></div>
                             <div className="card-paragraph-container">
-                                <p className="card-paragraph">This is a thing explainging waht this tep does in detail.  this is a very cool paragraph thing.  Wow this is such a good producT!  so manazying!  Wow so great!  OMg this is cool!  This is a thing explainging waht this tep does in detail.  this is a very cool paragraph thing.</p>
+                                <p className="card-paragraph">This is a thing explainging waht this tep does in detail.  this is a very cool paragraph thing.  Wow this is such a good producT!  so manazying!  Wow so great!</p>
                             </div>
                             <h1 className='card-title create'>Create Content</h1>
                         </div>
@@ -23,7 +23,7 @@ const Howitworks = () => {
                             <img id="message" src={message}></img>
                             <div className="message-glow"></div>
                             <div className="card-paragraph-container">
-                                <p className="card-paragraph">This is a thing explainging waht this tep does in detail.  this is a very cool paragraph thing.  Wow this is such a good producT!  so manazying!  Wow so great!  OMg this is cool!  This is a thing explainging waht this tep does in detail.  this is a very cool paragraph thing.</p>
+                                <p className="card-paragraph">This is a thing explainging waht this tep does in detail.  this is a very cool paragraph thing.  Wow this is such a good producT!  so manazying!  Wow so great!</p>
                             </div>
                             <h1 className='card-title share'>Share Content</h1>
                         </div>
@@ -31,7 +31,7 @@ const Howitworks = () => {
                             <img id="coin" src={coin}></img>
                             <div className="coin-glow"></div>
                             <div className="card-paragraph-container">
-                                <p className="card-paragraph">This is a thing explainging waht this tep does in detail.  this is a very cool paragraph thing.  Wow this is such a good producT!  so manazying!  Wow so great!  OMg this is cool!  This is a thing explainging waht this tep does in detail.  this is a very cool paragraph thing.</p>
+                                <p className="card-paragraph">This is a thing explainging waht this tep does in detail.  this is a very cool paragraph thing.  Wow this is such a good producT!  so manazying!  Wow so great!</p>
                             </div>
                             <h1 className='card-title rewarded'>Get Rewarded</h1>
                         </div>
