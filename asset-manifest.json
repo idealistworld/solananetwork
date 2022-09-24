@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/solananetwork/static/css/main.62a9617d.css",
+    "main.css": "/solananetwork/static/css/main.b5b0a48e.css",
     "main.js": "/solananetwork/static/js/main.2e563bdc.js",
     "static/js/787.7efd31bd.chunk.js": "/solananetwork/static/js/787.7efd31bd.chunk.js",
     "static/media/howitworks-background.png": "/solananetwork/static/media/howitworks-background.32b1fd9d2ab1fd6f0a1d.png",
@@ -14,12 +14,12 @@
     "static/media/coin.png": "/solananetwork/static/media/coin.65978e47bb673f57c72c.png",
     "static/media/message.png": "/solananetwork/static/media/message.a4aa7e094869999a9031.png",
     "index.html": "/solananetwork/index.html",
-    "main.62a9617d.css.map": "/solananetwork/static/css/main.62a9617d.css.map",
+    "main.b5b0a48e.css.map": "/solananetwork/static/css/main.b5b0a48e.css.map",
     "main.2e563bdc.js.map": "/solananetwork/static/js/main.2e563bdc.js.map",
     "787.7efd31bd.chunk.js.map": "/solananetwork/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62a9617d.css",
+    "static/css/main.b5b0a48e.css",
     "static/js/main.2e563bdc.js"
   ]
 }
