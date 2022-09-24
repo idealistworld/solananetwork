@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/solananetwork/static/css/main.dc75167c.css",
+    "main.js": "/solananetwork/static/js/main.432681f8.js",
+    "static/js/787.7efd31bd.chunk.js": "/solananetwork/static/js/787.7efd31bd.chunk.js",
+    "static/media/contact-background.png": "/solananetwork/static/media/contact-background.d2f4813452532a44cc90.png",
+    "static/media/landing-background.png": "/solananetwork/static/media/landing-background.8b67cc3c3169703907e3.png",
+    "static/media/home-icons.png": "/solananetwork/static/media/home-icons.5db4ccd0e8ecabed00d6.png",
+    "static/media/card-background.png": "/solananetwork/static/media/card-background.5fc3359b0524bac4e8b5.png",
+    "static/media/howitworks-background.png": "/solananetwork/static/media/howitworks-background.5fc3359b0524bac4e8b5.png",
+    "static/media/navbar-background.png": "/solananetwork/static/media/navbar-background.495d610474960795587f.png",
+    "static/media/camera.png": "/solananetwork/static/media/camera.940b8331e49f52998824.png",
+    "static/media/next.png": "/solananetwork/static/media/next.082c4420b8660676060f.png",
+    "static/media/coin.png": "/solananetwork/static/media/coin.65978e47bb673f57c72c.png",
+    "static/media/message.png": "/solananetwork/static/media/message.a4aa7e094869999a9031.png",
+    "index.html": "/solananetwork/index.html",
+    "main.dc75167c.css.map": "/solananetwork/static/css/main.dc75167c.css.map",
+    "main.432681f8.js.map": "/solananetwork/static/js/main.432681f8.js.map",
+    "787.7efd31bd.chunk.js.map": "/solananetwork/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc75167c.css",
+    "static/js/main.432681f8.js"
+  ]
+}
