@@ -16,26 +16,16 @@ const scrollFunction = function () {
         document.getElementById("one-nav").style.color = "#00E1B8";
         document.getElementById("two-nav").style.color = "white";
         document.getElementById("three-nav").style.color = "white";
-        document.getElementById("one-nav").style.textDecoration = "underline";
-        document.getElementById("two-nav").style.textDecoration = "none";
-        document.getElementById("three-nav").style.textDecoration = "none";
-
     }
     else if(isInViewport(two)){
         document.getElementById("one-nav").style.color = "white";
         document.getElementById("two-nav").style.color = "#00E1B8";
         document.getElementById("three-nav").style.color = "white";
-        document.getElementById("one-nav").style.textDecoration = "none";
-        document.getElementById("two-nav").style.textDecoration = "underline";
-        document.getElementById("three-nav").style.textDecoration = "none";
     }
     else if(isInViewport(three)){
         document.getElementById("one-nav").style.color = "white";
         document.getElementById("two-nav").style.color = "white";
         document.getElementById("three-nav").style.color = "#00E1B8";
-        document.getElementById("one-nav").style.textDecoration = "none";
-        document.getElementById("two-nav").style.textDecoration = "none";
-        document.getElementById("three-nav").style.textDecoration = "underline";
     }
 }
 
