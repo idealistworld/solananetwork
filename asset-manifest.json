@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/solananetwork/static/css/main.cbce46f6.css",
+    "main.css": "/solananetwork/static/css/main.c8454328.css",
     "main.js": "/solananetwork/static/js/main.4d6a54b7.js",
     "static/js/787.7efd31bd.chunk.js": "/solananetwork/static/js/787.7efd31bd.chunk.js",
     "static/media/contact-background.png": "/solananetwork/static/media/contact-background.d2f4813452532a44cc90.png",
@@ -14,12 +14,12 @@
     "static/media/coin.png": "/solananetwork/static/media/coin.65978e47bb673f57c72c.png",
     "static/media/message.png": "/solananetwork/static/media/message.a4aa7e094869999a9031.png",
     "index.html": "/solananetwork/index.html",
-    "main.cbce46f6.css.map": "/solananetwork/static/css/main.cbce46f6.css.map",
+    "main.c8454328.css.map": "/solananetwork/static/css/main.c8454328.css.map",
     "main.4d6a54b7.js.map": "/solananetwork/static/js/main.4d6a54b7.js.map",
     "787.7efd31bd.chunk.js.map": "/solananetwork/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbce46f6.css",
+    "static/css/main.c8454328.css",
     "static/js/main.4d6a54b7.js"
   ]
 }
