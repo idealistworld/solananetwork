@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/solananetwork/static/css/main.06f72904.css",
-    "main.js": "/solananetwork/static/js/main.eeb9b468.js",
+    "main.css": "/solananetwork/static/css/main.d76a44ca.css",
+    "main.js": "/solananetwork/static/js/main.135e4707.js",
     "static/js/787.7efd31bd.chunk.js": "/solananetwork/static/js/787.7efd31bd.chunk.js",
     "static/media/howitworks-background.png": "/solananetwork/static/media/howitworks-background.32b1fd9d2ab1fd6f0a1d.png",
     "static/media/landing-background.png": "/solananetwork/static/media/landing-background.391cbbfb4a6315ca9cfe.png",
@@ -14,12 +14,12 @@
     "static/media/coin.png": "/solananetwork/static/media/coin.65978e47bb673f57c72c.png",
     "static/media/message.png": "/solananetwork/static/media/message.a4aa7e094869999a9031.png",
     "index.html": "/solananetwork/index.html",
-    "main.06f72904.css.map": "/solananetwork/static/css/main.06f72904.css.map",
-    "main.eeb9b468.js.map": "/solananetwork/static/js/main.eeb9b468.js.map",
+    "main.d76a44ca.css.map": "/solananetwork/static/css/main.d76a44ca.css.map",
+    "main.135e4707.js.map": "/solananetwork/static/js/main.135e4707.js.map",
     "787.7efd31bd.chunk.js.map": "/solananetwork/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06f72904.css",
-    "static/js/main.eeb9b468.js"
+    "static/css/main.d76a44ca.css",
+    "static/js/main.135e4707.js"
   ]
 }
