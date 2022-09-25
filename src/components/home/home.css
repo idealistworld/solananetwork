@@ -15,7 +15,7 @@
 }
 
 .home-title {
-    color: white;
+    color: #d4d4d4;
     font-size: 6.5vw;
     margin: 0;
 }
@@ -25,11 +25,12 @@
     width: 92vw;
     display: flex;
     justify-content: center;
+    align-items: center;
     overflow: hidden;
 }
 
 .home-middle-content {
-    height: 90vh;
+    height: 80vh;
     width: 77vw;
     display: inline-flex;
     flex-direction: column;
@@ -37,14 +38,18 @@
 }
 
 .logo {
-    color: white;
+    color: #d4d4d4;
+}
+
+#logo-mobile {
+    display: none;
 }
 
 .home-paragraph {
     width: 40vw;
-    color: white;
+    color: #d4d4d4;
     font-size: 1.9vw;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 .signup-form {
@@ -54,8 +59,9 @@
     height: 4vw;
     padding: 0 2%;
     font-size: 1.5vw;
-    color: white;
+    color: #d4d4d4;
     font-weight: 100;
+    border-radius: 7px 0px 0px 7px;
 }
 
 .writing-logo {
@@ -81,10 +87,11 @@
 
 .submit {
     background-color: #00E1B8;
-    border: none;
     width: 9vw;
     font-size: 1.2vw;
     font-weight: 500;
+    border: none;
+    border-radius: 0px 7px 7px 0px;
 }
 
 .submit:hover {
@@ -93,25 +100,35 @@
 
 @media only screen and (max-device-width: 450px) {
 
-.home-middle-container {
-    height: 100vh;
-    width: 92vw;
-    display: flex;
-    justify-content: center;
-    overflow: hidden;
-}
+    .home-middle-container {
+        height: 100vh;
+        width: 92vw;
+        display: flex;
+        justify-content: center;
+        overflow: hidden;
+    }
 
-.home-middle-content {
-    height: 90vh;
-    width: 77vw;
-    display: inline-flex;
-    flex-direction: column;
-    justify-content: center;
-    margin-top: 6vh;
-}
+    .home-middle-content {
+        height: 90vh;
+        width: 77vw;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 1vh;
+    }
+
     .logo {
         z-index: 100;
-        color: white;
+        color: #d4d4d4;
+    }
+
+    #logo-desktop {
+        display: none;
+    }
+
+    #logo-mobile {
+        display:inline;
+        margin-bottom: 6vh;
     }
 
     .home-title {
@@ -135,6 +152,9 @@
         flex-direction: column;
     }
 
+    .home-right {
+    }
+
     #home-title {
         order: 1;
     }
@@ -150,39 +170,41 @@
     .home-icons {
         height: 73vh;
         margin-top: -16vh;
-        margin-left: -3vw;
+        margin-left: -2vw;
     }
 
     .home-paragraph {
         width: 80vw;
-        color: white;
+        color: #d4d4d4;
         font-size: 2vh;
-        font-weight: 300;
+        font-weight: 500;
         margin-bottom: 3vh;
     }
 
     .signup-form {
         margin-top: 3vh;
-        margin-bottom: 1.5vh;
+        margin-bottom: 0.5vh;
         background-color: #09081C;
-        border: #00E1B8 solid 1.5px;
-        width: 48vw;
-        height: 4vh;
+        border: #00E1B8 solid 2px;
+        width: 53vw;
+        height: 4.75vh;
         padding: 0 1.5vh;
         font-size: 1.6vh;
-        color: white;
+        color: #d4d4d4;
         font-weight: 200;
+        border-radius: 20px 0px 0px 20px;
     }
 
     .submit {
         margin-top: 3vh;
-        margin-bottom: 1.5vh;        
+        margin-bottom: 0.5vh;
         background-color: #00E1B8;
         color: black;
-        border: none;
-        width: 27vw;
-        font-size: 1.6vh;
+        width: 23vw;
+        font-size: 1.5vh;
         font-weight: 500;
+        border: none;
+        border-radius: 0px 20px 20px 0px;
     }
 
     .writing-logo {

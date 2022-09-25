@@ -1,5 +1,5 @@
 .nav-container {
-    color: white;
+    color: #d4d4d4;
     height:100vh;
     width: 8vw;
     background-image: url(../../images/navbar-background.png);
@@ -16,7 +16,7 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
-    color: white;
+    color: #d4d4d4;
     display: flex;
     justify-content: space-around;
     align-items: center;

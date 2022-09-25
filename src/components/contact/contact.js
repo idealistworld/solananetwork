@@ -11,7 +11,7 @@ const Contact = () => {
                     <img className = "next-arrow" src={next}></img>
                     <h1 className = "contact-title">Let's get Talking</h1>
                     <div className = "contact-paragraph-container">
-                        <p className = "contact-paragraph">This is some text that is just going to take up space on the page.  this is just something htat is giong here for the puropse of things being here!!</p>
+                        <p className = "contact-paragraph">The project is in the early stages of development, so if you have feedback or would just like to chat, let’s connect!  Contact me using the links below!</p>
                         <div className = "contact-button-container">
                         <button className = "contact-button">Email</button>
                         <button className = "contact-button">Telegram</button>

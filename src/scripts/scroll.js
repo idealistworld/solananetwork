@@ -14,17 +14,17 @@ const scrollFunction = function () {
     const three = document.getElementById("three-element");
     if(isInViewport(one)){
         document.getElementById("one-nav").style.color = "#00E1B8";
-        document.getElementById("two-nav").style.color = "white";
-        document.getElementById("three-nav").style.color = "white";
+        document.getElementById("two-nav").style.color = "#d4d4d4";
+        document.getElementById("three-nav").style.color = "#d4d4d4";
     }
     else if(isInViewport(two)){
-        document.getElementById("one-nav").style.color = "white";
+        document.getElementById("one-nav").style.color = "#d4d4d4";
         document.getElementById("two-nav").style.color = "#00E1B8";
-        document.getElementById("three-nav").style.color = "white";
+        document.getElementById("three-nav").style.color = "#d4d4d4";
     }
     else if(isInViewport(three)){
-        document.getElementById("one-nav").style.color = "white";
-        document.getElementById("two-nav").style.color = "white";
+        document.getElementById("one-nav").style.color = "#d4d4d4";
+        document.getElementById("two-nav").style.color = "#d4d4d4";
         document.getElementById("three-nav").style.color = "#00E1B8";
     }
 }
