@@ -127,7 +127,7 @@
     }
 
     #logo-mobile {
-        display:inline;
+        display: inline;
         margin-bottom: 6vh;
     }
 
@@ -152,8 +152,7 @@
         flex-direction: column;
     }
 
-    .home-right {
-    }
+    .home-right {}
 
     #home-title {
         order: 1;
@@ -192,7 +191,7 @@
         font-size: 1.6vh;
         color: #d4d4d4;
         font-weight: 200;
-        border-radius: 20px 0px 0px 20px;
+        border-radius: 12px 0px 0px 12px;
     }
 
     .submit {
@@ -204,7 +203,7 @@
         font-size: 1.5vh;
         font-weight: 500;
         border: none;
-        border-radius: 0px 20px 20px 0px;
+        border-radius: 0px 12px 12px 0px;
     }
 
     .writing-logo {

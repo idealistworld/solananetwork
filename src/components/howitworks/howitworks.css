@@ -93,7 +93,7 @@
 .card-title {
     color: #d4d4d4;
     text-align: center;
-    font-size: 3vw;
+    font-size: 3.1vw;
     margin-top: 0.1vw;
 }
 
@@ -185,7 +185,7 @@
     }
 
     .card {
-        height: 23vh;
+        height: 22.3vh;
         width: 87%;
         border-width: 1.5px;
         display: flex;
@@ -197,21 +197,22 @@
     .card-title {
         text-align: center;
         font-size: 8vw;
-        margin-bottom: 1vh;
+        margin-bottom: 0.55vh;
+        margin-top: -0.7vh;
     }
 
     .card-icon {
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-top: -7.5vh;
+        margin-top: -8.3vh;
     }
 
     .card-paragraph {
         color: #d4d4d4;
         text-align: center;
         width: 90%;
-        font-size: 3vw;
+        font-size: 1.5vh;
         z-index: 2000;
         margin-top: 2vh;
     }
