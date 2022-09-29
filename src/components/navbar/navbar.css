@@ -22,10 +22,23 @@
     align-items: center;
 }
 
+.nav-links h1:hover{
+    cursor: pointer;
+}
+
+.nav-links a {
+    text-decoration: none;
+}
+
+.nav-links a:visited {
+    text-decoration: none;
+}
+
+
 .nav-link {
     transform: rotate(-90deg);
     font-size: 2vw;
-    width: 30vh;
+    width: 20vh;
     text-align: center;
 }
 
