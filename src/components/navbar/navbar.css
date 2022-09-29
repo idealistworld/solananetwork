@@ -10,6 +10,7 @@
     z-index: 3;
     position: absolute;
     margin-left: 92vw;
+    overflow: hidden;
 }
 
 .nav-links {
@@ -40,6 +41,7 @@
     font-size: 2vw;
     width: 20vh;
     text-align: center;
+    color: white;
 }
 
 @media only screen and (max-device-width: 450px) {
