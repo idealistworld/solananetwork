@@ -38,7 +38,16 @@
 }
 
 .logo {
-    color: #d4d4d4;
+    background-image: linear-gradient(45deg,
+            #65ffaa 0%,
+            #d485ff 50.333%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    background-size: 100%;
+    background-repeat: repeat;
+    font-size: 4vw;
 }
 
 #logo-mobile {
@@ -119,7 +128,6 @@
 
     .logo {
         z-index: 100;
-        color: #d4d4d4;
     }
 
     #logo-desktop {
@@ -128,7 +136,8 @@
 
     #logo-mobile {
         display: inline;
-        margin-bottom: 6vh;
+        font-size: 4vh;
+        margin-bottom: 3.5vh;
     }
 
     .home-title {

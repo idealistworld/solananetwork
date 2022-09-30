@@ -29,10 +29,10 @@ const Home = () => {
       />
       <div className="home-middle-container">
         <div className="home-middle-content">
-          <h1 id="logo-mobile" className="logo">GetCascade</h1>
+          <h1 id="logo-mobile" className="logo">GetCascade.me</h1>
           <div className="writing-logo">
             <div id="home-left" className="home-left">
-              <h1 id="logo-desktop" className="logo">GetCascade</h1>
+              <h1 id="logo-desktop" className="logo">GetCascade.me</h1>
               <h1 id="home-title" className="home-title">Grow your audience<br></br> and get paid.</h1>
               <p id="home-paragraph" className="home-paragraph">This is some text that is just going to take up space on the page.  this is just something htat is giong here for the puropse of things being here!!</p>
               <form id="submit-section" className="submit-section">
