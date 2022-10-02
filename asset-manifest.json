@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f9c41889.css",
+    "main.css": "/static/css/main.6fbffbc2.css",
     "main.js": "/static/js/main.a5f10b0f.js",
     "static/js/787.7efd31bd.chunk.js": "/static/js/787.7efd31bd.chunk.js",
     "static/media/howitworks-background.png": "/static/media/howitworks-background.32b1fd9d2ab1fd6f0a1d.png",
@@ -14,12 +14,12 @@
     "static/media/coin.png": "/static/media/coin.65978e47bb673f57c72c.png",
     "static/media/message.png": "/static/media/message.a4aa7e094869999a9031.png",
     "index.html": "/index.html",
-    "main.f9c41889.css.map": "/static/css/main.f9c41889.css.map",
+    "main.6fbffbc2.css.map": "/static/css/main.6fbffbc2.css.map",
     "main.a5f10b0f.js.map": "/static/js/main.a5f10b0f.js.map",
     "787.7efd31bd.chunk.js.map": "/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9c41889.css",
+    "static/css/main.6fbffbc2.css",
     "static/js/main.a5f10b0f.js"
   ]
 }
