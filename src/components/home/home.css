@@ -47,7 +47,7 @@
     -moz-text-fill-color: transparent;
     background-size: 100%;
     background-repeat: repeat;
-    font-size: 4vw;
+    font-size: 3vw;
 }
 
 #logo-mobile {
@@ -83,11 +83,13 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 3vw;
 }
 
 .home-left {
     z-index: 1;
     display: inline;
+    margin-top: -3vw;
 }
 
 .submit-section {
@@ -123,7 +125,7 @@
         display: inline-flex;
         flex-direction: column;
         justify-content: center;
-        margin-top: 1vh;
+        margin-top: -3vh;
     }
 
     .logo {
